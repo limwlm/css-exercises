@@ -1,0 +1,23 @@
+.odd,
+.oddcool {
+    background-color: pink;
+    font-family:Verdana,'Dejavu Sans',sans-serif;
+    text-align: left;
+}
+.odd{
+    font-size: small;
+}
+.oddcool{
+    font-size: large;
+}
+
+#two {
+    font-size: xx-large;
+    color : blue;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
